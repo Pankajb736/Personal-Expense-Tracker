@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="analytics_filters">
+        <item>All Time</item>
+        <item>This Month</item>
+        <item>This Year</item>
+        <item>Custom Range</item>
+    </string-array>
+</resources>

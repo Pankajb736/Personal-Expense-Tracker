@@ -1,0 +1,45 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+/local.properties
+.DS_Store
+/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android generated files
+app/build/
+app/intermediates/
+app/.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Ignore crashlytics and fabric generated files
+crashlytics-build.properties
+fabric.properties
+
+# Ignore generated font files
+app/src/main/res/font/*.xml
+
+# Ignore APKs
+*.apk
+*.ap_
+
+# Firebase config (do not track sensitive keys)
+app/google-services.json
